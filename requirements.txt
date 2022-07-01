@@ -1,0 +1,4 @@
+altgraph==0.17.2
+pyinstaller==5.1
+pyinstaller-hooks-contrib==2022.6
+watchdog==2.1.8
